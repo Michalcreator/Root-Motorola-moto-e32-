@@ -1,0 +1,7 @@
+echo "# Root-Motorola-moto-e32-" >> README.md 
+git init 
+git add README.md 
+git commit -m "první potvrzení" 
+větev git -M main 
+git vzdálené přidání původ https://github.com/Michalcreator /Root-Motorola-moto-e32-.git
+ git push -u origin main
